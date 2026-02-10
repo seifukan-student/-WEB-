@@ -1,0 +1,12 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/student/home/page": "app/student/home/page.js",
+  "/student/1on1/page": "app/student/1on1/page.js",
+  "/student/settings/page": "app/student/settings/page.js",
+  "/student/pbl/page": "app/student/pbl/page.js",
+  "/teacher/1on1/page": "app/teacher/1on1/page.js",
+  "/teacher/pbl/page": "app/teacher/pbl/page.js",
+  "/teacher/dashboard/page": "app/teacher/dashboard/page.js",
+  "/teacher/settings/page": "app/teacher/settings/page.js"
+}

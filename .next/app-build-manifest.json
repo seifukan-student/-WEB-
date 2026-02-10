@@ -1,0 +1,99 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/_not-found-a306a985bb0d816b.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/css/649c1810c84eb3bc.css",
+      "static/chunks/app/layout-5c5707bbc9ed2d00.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/250-c18aeb0c64c71022.js",
+      "static/chunks/app/page-ac00c4d8853b48b0.js"
+    ],
+    "/student/layout": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/250-c18aeb0c64c71022.js",
+      "static/chunks/app/student/layout-b7e3c5c868e94524.js"
+    ],
+    "/student/home/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/student/home/page-0f3da9c58cdbf8ca.js"
+    ],
+    "/student/1on1/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/student/1on1/page-0fc521f123d873fe.js"
+    ],
+    "/student/settings/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/student/settings/page-22ee65b2f628b6a8.js"
+    ],
+    "/student/pbl/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/student/pbl/page-f62de7f5affaff12.js"
+    ],
+    "/teacher/layout": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/250-c18aeb0c64c71022.js",
+      "static/chunks/app/teacher/layout-32e20b5dd270a941.js"
+    ],
+    "/teacher/1on1/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/teacher/1on1/page-b904931b19f99198.js"
+    ],
+    "/teacher/pbl/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/teacher/pbl/page-404d7b9b99cc9f68.js"
+    ],
+    "/teacher/dashboard/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/teacher/dashboard/page-5f2578c0d8603715.js"
+    ],
+    "/teacher/settings/page": [
+      "static/chunks/webpack-77c0b792973a9fd0.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-9e7cba05548ccc03.js",
+      "static/chunks/main-app-652863cf2f5f4242.js",
+      "static/chunks/app/teacher/settings/page-58a7c527a3401786.js"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+import type { ReactNode } from "react";
+import { TopBar } from "@/components/TopBar";
+import { SideNav } from "@/components/SideNav";
+
+export default function TeacherLayout({ children }: { children: ReactNode }) {
+  const items = [
+    { label: "Dashboard", href: "/teacher/dashboard" },
+    { label: "1on1", href: "/teacher/1on1" },
+    { label: "PBL", href: "/teacher/pbl" },
+    { label: "Settings", href: "/teacher/settings" }
+  ];
+
+  return (
+    <div className="min-h-screen flex flex-col bg-slate-50">
+      <TopBar role="teacher" />
+      <div className="flex-1 flex">
+        <aside className="hidden sm:block w-56 border-r border-slate-200 bg-white px-4 py-6">
+          <SideNav items={items} />
+        </aside>
+        <main className="flex-1 px-4 py-6 sm:px-8 sm:py-8">
+          <div className="max-w-5xl mx-auto">{children}</div>
+        </main>
+      </div>
+    </div>
+  );
+}
+
