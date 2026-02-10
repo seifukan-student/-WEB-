@@ -11,7 +11,7 @@ export default function StudentLayout({ children }: { children: ReactNode }) {
   ];
 
   return (
-    <div className="min-h-screen flex flex-col bg-slate-50">
+    <div className="min-h-screen flex flex-col">
       <TopBar role="student" />
       <div className="flex-1 flex">
         <aside className="hidden sm:block w-56 border-r border-slate-200 bg-white px-4 py-6">

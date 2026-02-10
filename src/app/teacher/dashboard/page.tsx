@@ -6,8 +6,8 @@ export default function TeacherDashboardPage() {
           教員ダッシュボード
         </h1>
         <p className="text-sm text-slate-600">
-          担当クラスや生徒の状況を俯瞰するためのトップページです。まずは 1on1 と
-          PBL の進捗が一目で分かるポータルを目指します。
+          担当クラスや生徒の状況を俯瞰するためのトップページです。まずは教員の 1on1
+          インビ・割当をいかに楽にするかにフォーカスし、PBL や設定画面は次フェーズで拡張していきます。
         </p>
       </section>
       <section className="grid gap-4 sm:grid-cols-3">
@@ -24,7 +24,7 @@ export default function TeacherDashboardPage() {
             PBL プロジェクト
           </h2>
           <p className="text-xs text-slate-600">
-            担当プロジェクトの進捗や提出状況を一覧で確認できるようにします。
+            将来的に、担当プロジェクトの進捗や提出状況を一覧で確認できる PBL 画面と連携する予定です（現時点では Coming Soon）。
           </p>
         </div>
         <div className="page-card space-y-2">

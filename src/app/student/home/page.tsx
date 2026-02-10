@@ -6,7 +6,8 @@ export default function StudentHomePage() {
           ホーム（生徒）
         </h1>
         <p className="text-sm text-slate-600">
-          今日やるべきこと・今週の予定をまとめて確認できる、生徒向けのホーム画面です。
+          今日やるべきこと・今週の予定をまとめて確認できる、生徒向けのホーム画面です。まずは 1on1
+          の予定を見逃さないことにフォーカスし、PBL や設定は次フェーズで追加していきます。
         </p>
       </section>
       <section className="grid gap-4 sm:grid-cols-2">
@@ -21,7 +22,7 @@ export default function StudentHomePage() {
             進行中の PBL
           </h2>
           <p className="text-xs text-slate-600">
-            担当しているプロジェクトのステータスや、次の締切を一覧で表示する予定です。
+            将来的に、担当しているプロジェクトのステータスや次の締切を一覧で表示する予定です（現時点では Coming Soon）。
           </p>
         </div>
       </section>
